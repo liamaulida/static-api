@@ -2,7 +2,6 @@
     {"nama": "Bawang Merah", "namaLatin": "Allium cepa", "imageId": "bawang_merah"},
     {"nama": "Bawang Putih", "namaLatin": "Allium sativum", "imageId": "bawang_putih"},
     {"nama": "Cabai Merah", "namaLatin": "Capsicum annuum", "imageId": "cabai_merah"},
-    {"nama": "Cabai Hijau", "namaLatin": "Capsicum annuum", "imageId": "cabai_hijau"},
     {"nama": "Jahe", "namaLatin": "Zingiber officinale", "imageId": "jahe"},
     {"nama": "Kunyit", "namaLatin": "Curcuma longa", "imageId": "kunyit"},
     {"nama": "Lengkuas", "namaLatin": "Alpinia galanga", "imageId": "lengkuas"},
@@ -12,7 +11,5 @@
     {"nama": "Bayam", "namaLatin": "Amaranthus spp.", "imageId": "bayam"},
     {"nama": "Kangkung", "namaLatin": "Ipomoea aquatica", "imageId": "kangkung"},
     {"nama": "Terong", "namaLatin": "Solanum melongena", "imageId": "terong"},
-    {"nama": "Paprika", "namaLatin": "Capsicum annuum", "imageId": "paprika"},
-    {"nama": "Kacang Panjang", "namaLatin": "Vigna unguiculata", "imageId": "kacang_panjang"},
-    {"nama": "Labu Siam", "namaLatin": "Sechium edule", "imageId": "labu_siam"}
+    {"nama": "Paprika", "namaLatin": "Capsicum annuum", "imageId": "paprika"}
 ]
